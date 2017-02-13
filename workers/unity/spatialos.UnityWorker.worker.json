@@ -115,6 +115,7 @@
   },
   "external": {
     "default": {
+      "run_type": "EXECUTABLE",
       "windows": {
         "command": "build/worker/UnityWorker@Windows/UnityWorker@Windows.exe",
         "arguments": [
