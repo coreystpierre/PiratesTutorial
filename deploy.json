@@ -46,6 +46,14 @@
           }
         }
       }
+    },
+    {
+      "worker_type": "UnityClient",
+      "permissions": [
+        {
+          "all": {}
+        }
+      ]
     }
   ]
 }
